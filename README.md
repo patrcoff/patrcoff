@@ -43,11 +43,11 @@ That's all of the public projects which currently exist on my GitHub, mostly in 
 
 Aims of the year, as they sit at present:
 
--Be able to understand why / when to use a framework such as Django over say FastAPI (if using for backend) - what does each do better etc. In order words, have a solid and complete grasp on the currnet state of web development in Python.
--Improve front end capabilites (currently not very good at styling because CSS is so boring, I've only recently looked at JS again for the first time in a long time)
--Be able to make a simple android app. I haven't decided what to learn for this but the main contendors at present are Kivy and Kotlin.
--Improve dev practices, with Python (as my main language) including areas such as debugging, exception handling, testing, documentation, improve understanding of concepts such as inheritence, async, generators, decorators (writing my own) etc
--start practicing better workflows for starting, continueing and 'finishing' projects, setting them up for continual maintenance and making my life (future me) easier. 
+- Be able to understand why / when to use a framework such as Django over say FastAPI (if using for backend) - what does each do better etc. In order words, have a solid and complete grasp on the currnet state of web development in Python.
+- Improve front end capabilites (currently not very good at styling because CSS is so boring, I've only recently looked at JS again for the first time in a long time)
+- Be able to make a simple android app. I haven't decided what to learn for this but the main contendors at present are Kivy and Kotlin.
+- Improve dev practices, with Python (as my main language) including areas such as debugging, exception handling, testing, documentation, improve understanding of concepts such as inheritence, async, generators, decorators (writing my own) etc
+- start practicing better workflows for starting, continueing and 'finishing' projects, setting them up for continual maintenance and making my life (future me) easier. 
 - adhere to the 7 steps of app creation from Florian Rakete (a programming mentor who's fb group I have joined) - write a description of the app (whitepage), define the data the app will store, process, input and output and where that data comes from, logically group said data (don't skip this step), begin coding - write data classes, write test data for those data classes, write functionality and test on the test data, UI - only at the end! This model is not something I have previously been adhering to, I will make some effort to retrofit some of my existing projects with it but that is obviously challenging to some extent without a time machine. However, going forward, new projects should adhere to this framework.
 
 April - currently in the future, just writing here as a placeholder to show the end of the March segment.
