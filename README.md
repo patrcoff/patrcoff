@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrcoff
 - 👀 I’m interested in open source software, IT tools, exploring development as a potential career pivot from IT Support
 - 🌱 I’m currently learning python, sql, software development practices, linux administration.
-- 💞️ I’m looking to collaborate on: my first collaboration... While I have dabbled with Python for many years, I have only recently felt that I have gathered a sort of 'memonetum' in my learning. I hope to develop my experience with the language and surrounding skills more rapidly this year than any before. A key part of this would be to begin to work collaboratively on some projects. I would be keen to explore this further in 2023 and if anyone would like me to get involved with their project, or wants to get involved in one of mine (see below for details about my projects), then I'd be very happy to hear from you!
+- 💞️ I’m looking to collaborate on: my first collaboration... While I have dabbled with Python for many years, I have only recently felt that I have gathered a sort of 'momentum' in my learning. I hope to develop my experience with the language and surrounding skills more rapidly this year than any before. A key part of this would be to begin to work collaboratively on some projects. I would be keen to explore this further in 2023 and if anyone would like me to get involved with their project, or wants to get involved in one of mine (see below for details about my projects), then I'd be very happy to hear from you!
 - 📫 How to reach me - for now, the best way would be to reach out on LinkedIn, if you don't already have another contact method for me. https://www.linkedin.com/in/patrick-coffey-b7a748b0
 
 
