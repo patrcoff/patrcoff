@@ -4,16 +4,18 @@
 - 💞️ I’m looking to collaborate on: ISECAPIPY*, and any public projects (mainly in Python) who would be willing to have me work with them. I am new to contributing and am keen to learn more about best practices for working on Open Source.
 - 📫 How to reach me - for now, the best way would be to reach out on LinkedIn, if you don't already have another contact method for me. https://www.linkedin.com/in/patrick-coffey-b7a748b0
 
+<br></br>
+<br></br>
 
 <h1>Projects</h1>
 
-|
-|
-|
+<br></br>
 
 <h2>ISECAPIPY</h2>
 
 I am developing a Python package which is a wrapper for the Ivanti Security Controls Console REST API. This is my first 'real world' project so to speak, and though I am proud of how the project is going, I'm sure there are many improvements to be made in it. I was previously employed at Ivanti as a TSE supporting ISEC and it's due to my knowledge of this product that I have chosen to focus on this project at this point in my personal development. However, it should be noted that the project is fully Open Source and is based fully on publically available information about the ISEC product and its REST API. It is in no way affiliated with Ivanti itself and receives no support or funding from them. I would be keen to collaborate on this project with any actual customers of ISEC in order to get insights to desired functionality and real-world use cases.
+
+<br></br>
 
 <h2>TaskQueue / Clippy2000</h2>
 
