@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @patrcoff
 - 👀 I’m interested in open source software, IT tools, and am currently pivoting from IT Support to DevOps so anything in that realm is of great interest to me.
-- 🌱 I’m currently learning python, sql, software development practices, linux administration.
+- 🌱 I’m currently learning terraform, go, python, sql, software development practices, linux administration, cloud infrastucture platforms such as Azure and AWS to name a few.
 - 💞️ I’m looking to collaborate on: ISECAPIPY*, and any public projects (mainly in Python) who would be willing to have me work with them. I am new to contributing and am keen to learn more about best practices for working on Open Source.
 - 📫 How to reach me - for now, the best way would be to reach out on LinkedIn, if you don't already have another contact method for me. https://www.linkedin.com/in/patrick-coffey-b7a748b0
+
+<br></br>
+
+Over the past few months I have been a little quiet on my personal GitHub for the following reasons:
+
+- I have been working towards a microcredential with the OU in AWS ML which has been done mainly within a cloud learning environment and taken most of my extra curricular attention since the beginning of summer.
+- I have started a new job, where I have recevied extensive training over 8 weeks in the form of what the company calls an Academy. Sort of like a bootcamp but with more positives and fewer negatives (including a full wage from day 1). The role is Platform Engineer so I've been upskilling in cloud technologies, DevOps, CI/CD, IAC and more. I've been usng my coorporate GH account primarily during this time hence the blackout here. I hope to soon showcase some of my newer skills here as and when I find the time, now that the Academy has ended and I'm getting ready to onboard to project work.
 
 <br></br>
 <br></br>
