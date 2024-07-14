@@ -6,7 +6,7 @@
 
 <br></br>
 
-Over the past few months I have been a little quiet on my personal GitHub for the following reasons:
+Over the past ~~few months~~ year or so I have been a little quiet on my personal GitHub for the following reasons:
 
 - I have been working towards a microcredential with the OU in AWS ML which has been done mainly within a cloud learning environment and taken most of my extra curricular attention since the beginning of summer.
 - I have started a new job, where I have recevied extensive training over 8 weeks in the form of what the company calls an Academy. Sort of like a bootcamp but with more positives and fewer negatives (including a full wage from day 1). The role is Platform Engineer so I've been upskilling in cloud technologies, DevOps, CI/CD, IAC and more. I've been usng my coorporate GH account primarily during this time hence the blackout here. I hope to soon showcase some of my newer skills here as and when I find the time, now that the Academy has ended and I'm getting ready to onboard to project work.
@@ -27,7 +27,10 @@ I have since had no time to dedicate to this project due to significant time foc
 
 This goes for all my other projects from the past too, though I am leaving them up for transparency and posterity. I have also been mostly commiting code to official repositories inside my company and client's private repositories from my professional account(s), hence the limited activity on this account, which is a personal one. Hopefully at some point in the future I will have more time to dedicate to my personal portfolio and produce some hopefully interesting projects.
 
+<h2>Update Summer 2024</h2>
+My second daughter has now been born and although some further recovery is needed, my wife is doing well. The '_good_' thing about hyperemesis is that once the baby is born, the sickenss goes away within a few hours as it is believed to be a hormonal reaction to the pregnancy. So thankfully that chapter is behind us, now just the small matter of chronic lack of sleep!
 
+Hopefully there is light at the end of the tunnel though. Our daughter is nearly 3 months old now and is gradually getting better (she has some as-of-yet undiagnosed digestive issues causing her discomfort after feeding which keeps her awake during the night) and eventually we should all be back in a decent routine. I am hoping to be a little more active on this account thoughout the second half of this year and should be well under way with personal projects and writing. I have learnt a lot in the last year with my recent career pivot and am excited to show it off and share my knowledge here and in other places; as and when I get the time to do so.
 
 <!---
 patrcoff/patrcoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
