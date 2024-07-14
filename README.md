@@ -10,7 +10,7 @@ Over the past ~~few months~~ year or so I have been a little quiet on my persona
 
 - I have been working towards a microcredential with the OU in AWS ML which has been done mainly within a cloud learning environment and taken most of my extra curricular attention since the beginning of summer.
 - I have started a new job, where I have recevied extensive training over 8 weeks in the form of what the company calls an Academy. Sort of like a bootcamp but with more positives and fewer negatives (including a full wage from day 1). The role is Platform Engineer so I've been upskilling in cloud technologies, DevOps, CI/CD, IAC and more. I've been usng my coorporate GH account primarily during this time hence the blackout here. I hope to soon showcase some of my newer skills here as and when I find the time, now that the Academy has ended and I'm getting ready to onboard to project work.
-- ++ SEE BELOW
+- ++ SEE BELOW COMMENTS UNDER ISECAPIPY
 
 <br></br>
 <br></br>
